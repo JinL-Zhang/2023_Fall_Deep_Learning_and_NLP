@@ -1,6 +1,5 @@
 """
 Anomaly Detection using Autoencoders
-Jinlun Zhang, 220668810, MMAI5500 A3
 
 Main task: Analyze a short video and detect the frames
 where something unusual happens.
