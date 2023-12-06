@@ -4,8 +4,6 @@ Anomaly Detection using Autoencoders
 Main task: Analyze a short video and detect the frames
 where something unusual happens.
 
-Note: To only see the codes that load the model and utilize it without training
-Please refer to the file 'mmai5500_a3_model_implement.py'
 """
 
 from keras.models import load_model
