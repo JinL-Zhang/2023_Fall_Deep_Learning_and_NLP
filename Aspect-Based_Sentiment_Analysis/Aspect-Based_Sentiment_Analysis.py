@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Aspect-Based Sentiment Analysis
 Use a custom-trained Named Entity Recognition (NER) model stored in 'model-best' folder to identify the

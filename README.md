@@ -9,3 +9,4 @@ The machine learning (NLP, Deep Learning, Predictive Modeling) projects complete
 ## NLP
   1. Customer Review Web Scrapping
   2. Sentiment Classification on Customer Reviews (tf-idf with n-gram BoW representation)
+  3. Use a custom-trained Named Entity Recognition (NER) model to identify the dishes in the reviews (i.e. the aspects) and then use a pre-trained ABSA model to analyze the sentiment expressed about those dishes.

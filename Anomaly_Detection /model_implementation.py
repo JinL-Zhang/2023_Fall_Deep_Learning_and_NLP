@@ -7,8 +7,6 @@ where something unusual happens.
 Note: This file only contains the code implementing the autoencoder.
 It Loads the model, and contains a function that takes a normalized frame
 and returns True or False depending on whether the frame is anomalous or not.
-To train the autoencoder from scratch, please
-refer to the file 'mmai5500_a3.py'
 """
 
 from keras.models import load_model
