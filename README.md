@@ -7,7 +7,7 @@ The machine learning (NLP, Deep Learning, Predictive Modeling) projects complete
   2. **Anomaly Detection using Autoencoders**: Analyze a short video and detect the frames where something unusual happens by checking if the loss of the model exceeds a pre-defined threshold
 
 ## NLP
-  1. **Customer Review Web Scrapping**: Reviews are scraped from Trustpilot. The chosen company for the reviews is **BMO Financial Group**. The reviews are written to a CSV file named 'bmo_review_scraped.csv'
+  1. **Customer Review Web Scrapping**: Reviews are scraped from Trustpilot. The chosen company for the reviews is *BMO Financial Group*. The reviews are written to a CSV file named 'bmo_review_scraped.csv'
   2. Sentiment Classification on Customer Reviews (tf-idf with n-gram BoW representation)
   3. Use a custom-trained Named Entity Recognition (NER) model to identify the dishes in the reviews (i.e. the aspects) and then use a pre-trained ABSA model to analyze the sentiment expressed about those dishes.
 
