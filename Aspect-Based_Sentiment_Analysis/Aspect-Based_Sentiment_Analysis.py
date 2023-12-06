@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Aspect-Based Sentiment Analysis
-Use a custom-trained Named Entity Recognition (NER) model to identify the
+Use a custom-trained Named Entity Recognition (NER) model stored in 'model-best' folder to identify the
 dishes in the reviews (i.e. the aspects) and then use a pre-trained ABSA model
 to analyze the sentiment expressed about those dishes.
 """
