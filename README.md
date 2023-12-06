@@ -12,7 +12,7 @@ The machine learning (NLP, Deep Learning, Predictive Modeling) projects complete
   3. Use a custom-trained Named Entity Recognition (NER) model to identify the dishes in the reviews (i.e. the aspects) and then use a pre-trained ABSA model to analyze the sentiment expressed about those dishes.
 
 -----------
-# Causal Inference on Experimental Data
+# Causal Inference on Tax Compliance Experimental Data
 An in-depth analysis of the data collected in an experiment undertaken in Tanzanian to enhance tax compliance among its citizens. To bolster the tax collection system, three distinct SMS messaging strategies are experimented: sending a SMS tax remainder message (T1), sending the same SMS message with a warning of Mjumbe (local leader) involvement (T2), and sending the same SMS message with the actual Mjumbe involvement. That strategies will help for nuanced examination of the variate effects of SMS message effect and local leader involvement.
 
 The analysis, mainly based on ANOVA and right-tail t-tests, reveals that the three treatments do not yield different impacts on tax compliance overall. However, by comparing the treatment impacts across varying Mjumbe sizes, a profound conclusion is arrived, where strategy with SMS message alone outperforms the strategy with the actual involvement of the local leaders for medium size Mjumbe (11-35 residents) and the strategy with the actual Mjumbe involvement should be preferred for small size Mjumbe (≤ 10 residents). These findings are supported by robust data analytics and visualizations, shedding light on the nuanced responses of taxpayers to different forms of SMS communication across different Mjumbes with different sizes.
